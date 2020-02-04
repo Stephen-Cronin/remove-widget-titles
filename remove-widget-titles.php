@@ -7,8 +7,8 @@ Version: 1.0
 Date: 23 November 2011
 Author: Stephen Cronin
 Author URI: http://www.scratch99.com/
-   
-   Copyright 2011 Stephen Cronin (email: sjc@scratch99.com)
+
+    Copyright 2011 Stephen Cronin (email: sjc@scratch99.com)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
